@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@xini-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "f8125ced2c6c18337e55c09c8a993887b0ade80a"
 }

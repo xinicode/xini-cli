@@ -1,6 +1,6 @@
 {
   "name": "@xini-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "xini <timcook751@yaoo.com>",
   "homepage": "",
@@ -19,5 +19,8 @@
   "dependencies": {
     "@xini-cli/utils": "^1.0.2"
   },
-  "gitHead": "f8125ced2c6c18337e55c09c8a993887b0ade80a"
+  "gitHead": "cf356f35ca07e335eb5bc3f70c2ff2e00f3204a8",
+  "publishConfig": {
+    "access": "public"
+  }
 }

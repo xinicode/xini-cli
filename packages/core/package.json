@@ -1,6 +1,6 @@
 {
   "name": "@xini-cli/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "xini <timcook751@yaoo.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@xini-cli/utils": "^1.0.0"
+    "@xini-cli/utils": "^1.0.1"
   }
 }

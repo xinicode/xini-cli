@@ -1,0 +1,32 @@
+{
+  "name": "log",
+  "version": "1.0.4",
+  "description": "log",
+  "keywords": [
+    "log"
+  ],
+  "author": "xini <timcook751@yaoo.com>",
+  "homepage": "https://github.com/xinicode/xini-cli#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinicode/xini-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/xinicode/xini-cli/issues"
+  },
+  "dependencies": {
+    "npmlog": "^6.0.1"
+  }
+}
